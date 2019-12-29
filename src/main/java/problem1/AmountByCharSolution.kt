@@ -1,3 +1,5 @@
+package problem1
+
 class AmountByCharSolution {
 
     fun count(string: String): Map<String, Int> =
